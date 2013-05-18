@@ -1,11 +1,21 @@
-#include <QtGui/QApplication>
-#include "mainwindow.h"
+#include <iostream>
+#include "celda.h"
 
-int main(int argc, char *argv[])
+
+using namespace std;
+
+int main()
 {
-    QApplication a(argc, argv);
-    MainWindow w;
-    w.show();
+    celda A;
+    pC p="A1";
 
-    return a.exec();
+    //cout<<p;
+    //cout<<A.esLetra('a')<<endl;
+    //cout<<A.sacarLetra(p);
+
+    //cout<<A.sacarNumero(p);
+
+
+
+    return 0;
 }

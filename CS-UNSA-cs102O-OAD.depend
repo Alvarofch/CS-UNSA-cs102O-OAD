@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1368486866 source:d:\universidad\cs-unsa-cs102o-oad\celda.cpp
+	"celda.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1368487884 d:\universidad\cs-unsa-cs102o-oad\celda.h
+	"Nodo.h"
+
+1368486756 source:d:\universidad\cs-unsa-cs102o-oad\main.cpp
+	<iostream>
+	"celda.h"
+
+1367968646 source:d:\universidad\cs-unsa-cs102o-oad\constante.cpp
+	"constante.h"
+
+1368487098 d:\universidad\cs-unsa-cs102o-oad\constante.h
+	"Nodo.h"
+
+1367968623 source:d:\universidad\cs-unsa-cs102o-oad\operacion.cpp
+	"operacion.h"
+
+1368486866 d:\universidad\cs-unsa-cs102o-oad\operacion.h
+
+1368487670 d:\universidad\cs-unsa-cs102o-oad\nodo.h
+	<cstring>
+
+1368487015 source:d:\universidad\cs-unsa-cs102o-oad\nodo.cpp
+	"Nodo.h"
+
+1368481080 source:c:\users\toshiba\desktop\cs-unsa-cs102o-oad-master\celda.cpp
+	"celda.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1368481080 c:\users\toshiba\desktop\cs-unsa-cs102o-oad-master\celda.h
+	"Nodo.h"
+
+1368845220 c:\users\toshiba\desktop\cs-unsa-cs102o-oad-master\nodo.h
+	<cstring>
+	"MainCell.h"
+
+1368481080 source:c:\users\toshiba\desktop\cs-unsa-cs102o-oad-master\constante.cpp
+	"constante.h"
+
+1368845120 c:\users\toshiba\desktop\cs-unsa-cs102o-oad-master\constante.h
+	"Nodo.h"
+
+1368481080 source:c:\users\toshiba\desktop\cs-unsa-cs102o-oad-master\main.cpp
+	<iostream>
+	"celda.h"
+
+1368481080 source:c:\users\toshiba\desktop\cs-unsa-cs102o-oad-master\operacion.cpp
+	"operacion.h"
+
+1368845120 c:\users\toshiba\desktop\cs-unsa-cs102o-oad-master\operacion.h
+	"Nodo.h"
+
+1368481080 source:c:\users\toshiba\desktop\cs-unsa-cs102o-oad-master\nodo.cpp
+	"Nodo.h"
+
+1368845695 c:\users\toshiba\desktop\cs-unsa-cs102o-oad-master\maincell.h
+
