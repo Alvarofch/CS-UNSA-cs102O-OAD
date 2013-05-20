@@ -1,6 +1,7 @@
 #ifndef NODO_H
 #define NODO_H
-#include <cstring>
+#include <string>
+
 #include "MainCell.h"
 
 

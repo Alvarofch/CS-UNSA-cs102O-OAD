@@ -1,11 +1,8 @@
 #include "constante.h"
 
-constante::constante()
-{
-    //ctor
-}
 
-constante::~constante()
+
+Constant::~Constant()
 {
     //dtor
 }

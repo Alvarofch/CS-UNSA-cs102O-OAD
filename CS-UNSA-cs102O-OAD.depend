@@ -63,3 +63,39 @@
 
 1368845695 c:\users\toshiba\desktop\cs-unsa-cs102o-oad-master\maincell.h
 
+1368481080 source:c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\nodo.cpp
+	"Nodo.h"
+
+1369023115 c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\nodo.h
+	<string>
+	"MainCell.h"
+
+1368845695 c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\maincell.h
+
+1369023200 source:c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\constante.cpp
+	"constante.h"
+
+1368845120 c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\constante.h
+	"Nodo.h"
+
+1369023516 source:c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\main.cpp
+	<iostream>
+
+1368481080 c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\celda.h
+	"Nodo.h"
+
+1369023534 source:c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\operacion.cpp
+	"operacion.h"
+
+1368845120 c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\operacion.h
+	"Nodo.h"
+
+1368845505 source:c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\nodecell.cpp
+	"NodeCell.h"
+
+1369023173 c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\nodecell.h
+	"Nodo.h"
+
+1368807815 source:c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\maincell.cpp
+	"MainCell.h"
+
