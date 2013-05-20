@@ -39,6 +39,8 @@
 		<Unit filename="NodeCell.h" />
 		<Unit filename="Nodo.cpp" />
 		<Unit filename="Nodo.h" />
+		<Unit filename="Parser.cpp" />
+		<Unit filename="Parser.h" />
 		<Unit filename="constante.cpp" />
 		<Unit filename="constante.h" />
 		<Unit filename="main.cpp" />
