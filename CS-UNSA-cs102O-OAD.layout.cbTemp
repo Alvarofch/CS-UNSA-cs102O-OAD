@@ -5,10 +5,10 @@
 		<Cursor position="0" topLine="0" />
 	</File>
 	<File name="MainCell.h" open="1" top="0" tabpos="8">
-		<Cursor position="604" topLine="0" />
+		<Cursor position="408" topLine="0" />
 	</File>
 	<File name="MathFunctions.h" open="1" top="0" tabpos="12">
-		<Cursor position="533" topLine="0" />
+		<Cursor position="1429" topLine="8" />
 	</File>
 	<File name="NodeCell.cpp" open="1" top="0" tabpos="11">
 		<Cursor position="68" topLine="0" />
@@ -20,10 +20,7 @@
 		<Cursor position="0" topLine="0" />
 	</File>
 	<File name="Nodo.h" open="1" top="0" tabpos="7">
-		<Cursor position="65" topLine="0" />
-	</File>
-	<File name="Parser.h" open="1" top="1" tabpos="13">
-		<Cursor position="57" topLine="0" />
+		<Cursor position="412" topLine="0" />
 	</File>
 	<File name="constante.cpp" open="1" top="0" tabpos="2">
 		<Cursor position="45" topLine="0" />
