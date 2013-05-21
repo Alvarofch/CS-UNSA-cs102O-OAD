@@ -2,7 +2,7 @@
 #define PARSER_H
 #include "MainCell.h"
 
-class Parser
+class Parser/**Clase para subdividir la expresion que contiene una celda**/
 {
     private:
 

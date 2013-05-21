@@ -22,5 +22,5 @@ mapMathFunctions.insert(pairMathFuntion("+",&cellAddition));
 mapMathFunctions.insert(pairMathFuntion("-",&cellSubstract));
 mapMathFunctions.insert(pairMathFuntion("*",&cellMultiply));
 mapMathFunctions.insert(pairMathFuntion("/",&cellDivision));
- /**Debe haber una forma de insertar las funciones al math para no estar poniendo dicha funcion y luego un insert**/
+ /** **/
 #endif//MATHFUNCTIONS_H
