@@ -1,11 +1,8 @@
 #ifndef NODO_H
 #define NODO_H
 #include <string>
-#include <vector>
-//#include "MainCell.h"
 
 typedef double cellValue;
-//typedef char C;
 
 class Nodo
 {

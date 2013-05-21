@@ -35,6 +35,8 @@
 		<Unit filename="MainCell.cpp" />
 		<Unit filename="MainCell.h" />
 		<Unit filename="MathFunctions.h" />
+		<Unit filename="Matrix.cpp" />
+		<Unit filename="Matrix.h" />
 		<Unit filename="NodeCell.cpp" />
 		<Unit filename="NodeCell.h" />
 		<Unit filename="Nodo.cpp" />

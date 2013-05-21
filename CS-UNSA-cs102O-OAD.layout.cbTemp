@@ -1,40 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="MainCell.cpp" open="1" top="0" tabpos="9">
+	<File name="MainCell.cpp" open="1" top="0" tabpos="2">
 		<Cursor position="0" topLine="0" />
 	</File>
-	<File name="MainCell.h" open="1" top="0" tabpos="8">
-		<Cursor position="408" topLine="0" />
+	<File name="MainCell.h" open="1" top="0" tabpos="1">
+		<Cursor position="545" topLine="5" />
 	</File>
-	<File name="MathFunctions.h" open="1" top="0" tabpos="12">
-		<Cursor position="1429" topLine="8" />
+	<File name="MathFunctions.h" open="1" top="0" tabpos="3">
+		<Cursor position="1324" topLine="6" />
 	</File>
-	<File name="NodeCell.cpp" open="1" top="0" tabpos="11">
+	<File name="NodeCell.cpp" open="0" top="0" tabpos="11">
 		<Cursor position="68" topLine="0" />
 	</File>
-	<File name="NodeCell.h" open="1" top="0" tabpos="10">
-		<Cursor position="804" topLine="3" />
+	<File name="NodeCell.h" open="0" top="0" tabpos="10">
+		<Cursor position="512" topLine="0" />
 	</File>
-	<File name="Nodo.cpp" open="1" top="0" tabpos="6">
+	<File name="Nodo.cpp" open="0" top="0" tabpos="6">
 		<Cursor position="0" topLine="0" />
 	</File>
 	<File name="Nodo.h" open="1" top="0" tabpos="7">
-		<Cursor position="412" topLine="0" />
+		<Cursor position="47" topLine="0" />
 	</File>
-	<File name="constante.cpp" open="1" top="0" tabpos="2">
+	<File name="Parser.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Parser.h" open="1" top="1" tabpos="4">
+		<Cursor position="189" topLine="0" />
+	</File>
+	<File name="constante.cpp" open="0" top="0" tabpos="2">
 		<Cursor position="45" topLine="0" />
 	</File>
-	<File name="constante.h" open="1" top="0" tabpos="5">
+	<File name="constante.h" open="0" top="0" tabpos="5">
 		<Cursor position="428" topLine="0" />
 	</File>
-	<File name="main.cpp" open="1" top="0" tabpos="1">
+	<File name="main.cpp" open="0" top="0" tabpos="1">
 		<Cursor position="22" topLine="0" />
 	</File>
-	<File name="operacion.cpp" open="1" top="0" tabpos="3">
+	<File name="operacion.cpp" open="0" top="0" tabpos="3">
 		<Cursor position="25" topLine="0" />
 	</File>
-	<File name="operacion.h" open="1" top="0" tabpos="4">
+	<File name="operacion.h" open="0" top="0" tabpos="4">
 		<Cursor position="353" topLine="0" />
 	</File>
 </CodeBlocks_layout_file>
