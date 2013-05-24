@@ -69,7 +69,7 @@
 1369103128 c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\nodo.h
 	<string>
 
-1369103606 c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\maincell.h
+1369249254 c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\maincell.h
 	"Nodo.h"
 	<vector>
 
@@ -110,6 +110,6 @@
 1369060604 source:c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\parser.cpp
 	"Parser.h"
 
-1369103473 c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\parser.h
+1369108436 c:\users\toshiba\desktop\excel\cs-unsa-cs102o-oad\parser.h
 	"MainCell.h"
 
